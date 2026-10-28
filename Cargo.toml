@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_alpm_go"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_alpm_go"
+path = "src/lib.rs"
